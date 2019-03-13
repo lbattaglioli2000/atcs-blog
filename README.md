@@ -16,3 +16,6 @@ if(you.have() == Issue){
 That's still super vague, just like all of the test questions in this class.
 
 To fill out a god damn issue report, just go to [the issues page](https://github.com/lbattaglioli2000/atcs-blog/issues/new) and fill out the damn form. I'll get back to you eventually.
+
+## Wiki
+The project's wiki will have a detailed explanation of each component of the lab, once completed.
